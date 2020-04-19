@@ -35,17 +35,17 @@ namespace MiCalculadora
             txtNumero2.Clear();
             txtResultado.Text = string.Empty;
             comboBox_Oper.Text = string.Empty;
-           
+
         }
 
         private void button_Conv_Deci_Click(object sender, EventArgs e)
         {
 
-            if (btnConBin.Enabled==false) {
+            if (txtResultado.Text.ToString()!=string.Empty) {
                 int toBin = int.Parse(txtResultado.Text);
                 int deci = Convert.ToInt32(toBin.ToString(), 2);
                 txtResultado.Text = deci.ToString();
-                btnConBin.Enabled = true;
+                
             }
         }
 
@@ -79,11 +79,10 @@ namespace MiCalculadora
 
         private void btnConBin_Click(object sender, EventArgs e)
         {
-            if (txtResultado.Text.ToString() != string.Empty && btnConDeci.Enabled == false)
+            if (txtResultado.Text.ToString() != string.Empty )
             {
                 txtResultado.Text = Convert.ToString((int)Math.Round(double.Parse(txtResultado.Text)), 2);
-                btnConDeci.Enabled = true;
-                btnConBin.Enabled = false;
+               
             }
         }
 
@@ -94,5 +93,7 @@ namespace MiCalculadora
                 this.Close();
             }
         }
+
+       
     }
 }

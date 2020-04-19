@@ -81,13 +81,12 @@
             // 
             // btnConDeci
             // 
-            this.btnConDeci.Enabled = false;
             this.btnConDeci.Location = new System.Drawing.Point(249, 196);
             this.btnConDeci.Name = "btnConDeci";
             this.btnConDeci.Size = new System.Drawing.Size(215, 40);
             this.btnConDeci.TabIndex = 7;
             this.btnConDeci.Text = "Convertir a Decimal";
-            this.btnConDeci.UseVisualStyleBackColor = true;
+            this.btnConDeci.UseVisualStyleBackColor = false;
             this.btnConDeci.Click += new System.EventHandler(this.button_Conv_Deci_Click);
             // 
             // txtNumero2
