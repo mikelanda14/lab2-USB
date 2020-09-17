@@ -1,0 +1,10 @@
+C:\Users\MARK4\source\repos\MiguelLandaeta_2c\Entidades\bin\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\MiguelLandaeta_2c\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.pdb
+D:\MiguelLandaeta_2c\MiguelLandaeta_2c\Entidades\bin\Debug\Entidades.dll
+D:\MiguelLandaeta_2c\MiguelLandaeta_2c\Entidades\bin\Debug\Entidades.pdb
+D:\MiguelLandaeta_2c\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\MiguelLandaeta_2c\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.dll
+D:\MiguelLandaeta_2c\MiguelLandaeta_2c\Entidades\obj\Debug\Entidades.pdb
